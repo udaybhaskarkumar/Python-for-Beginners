@@ -1,4 +1,4 @@
-f# Python-for-Beginners
+# Python-for-Beginners
 This repository is for beginners. Who has passion on python.
 
 This repository is made from different books.
@@ -10,6 +10,9 @@ You can use IDLE Netbeans, Pycharm, Eclipse etc.,
 
 Python Download link:- https://www.python.org/downloads/
 Pycharm Download link:- https://www.jetbrains.com/pycharm/download/#section=windows
+
+For more information what is new in python 3:- https://docs.python.org/3.0/whatsnew/3.0.html
+Tutorial is completely on python3.
 
 Course Contents:-
 1. Using Python IDLE as a Calculator.
