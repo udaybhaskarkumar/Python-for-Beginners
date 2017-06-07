@@ -1,2 +1,4 @@
 # Python-for-Beginners
-This repository is for beginners. Who are having passion towards learning python.
+This repository is for beginners. Who has passion on python.
+
+For any further information/clarification please mail to udaybhaskarkumar@protonmail.com
