@@ -15,8 +15,8 @@ For more information what is new in python 3:- https://docs.python.org/3.0/whats
 Tutorial is completely on python3.
 
 Course Contents:-
-1. Using Python IDLE as a Calculator.
-2. Python Basics.
+1. Python Basics
+2. 
 3.2. First Steps Towards Programming 
 4. More Control Flow Tools
 4.1. if Statements 
